@@ -33,17 +33,13 @@
 
 ### 📌 Featured Projects
 
-- **[Polo — Real-Time Messaging Backend](#)** — Production-grade chat backend built with FastAPI and WebSockets, supporting multi-room messaging with JWT-protected connections, Redis Pub/Sub for horizontal scaling, and a GitHub Actions CI/CD pipeline.
-- **[ResQWave — Disaster Relief & Coordination Platform](#)** — Real-time emergency response platform using React, Node.js, and Socket.io, with AI-based urgency scoring, a multi-role dashboard, and live coordination between field responders and admins.
+- **[Polo — Real-Time Messaging Backend](https://github.com/Judith-AB/polo)** — Production-grade chat backend built with FastAPI and WebSockets, supporting multi-room messaging with JWT-protected connections, Redis Pub/Sub for horizontal scaling, and a GitHub Actions CI/CD pipeline.
+- **[ResQWave — Disaster Relief & Coordination Platform](https://github.com/Judith-AB/ResQWave)** — Real-time emergency response platform using React, Node.js, and Socket.io, with AI-based urgency scoring, a multi-role dashboard, and live coordination between field responders and admins.
+- **[SafeHer — Cloud-Native Predictive Safety Platform](https://github.com/Judith-AB/SafeHer)** — Women's safety platform built in Flutter on a serverless Google Cloud backend, with a BigQuery ML boosted-tree classifier powering a predictive risk heatmap (0.9021 AUC-ROC), a jurisdiction-specific legal aid chatbot, and zero-PII coordinate fuzzing in Firestore for privacy-safe location features.
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Judith-AB&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judith-AB&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Judith-AB&theme=tokyonight&hide_border=true"/>
