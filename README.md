@@ -12,13 +12,13 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 - 🎓 Final-year CS student at Amrita Vishwa Vidyapeetham
 - 🔭 Building backend, full-stack, and cross-platform mobile projects — from real-time systems to AI-integrated platforms
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 - **[Polo — Real-Time Messaging Backend](https://github.com/Judith-AB/polo)** — Production-grade chat backend built with FastAPI and WebSockets, supporting multi-room messaging with JWT-protected connections, Redis Pub/Sub for horizontal scaling, and a GitHub Actions CI/CD pipeline.
 - **[ResQWave — Disaster Relief & Coordination Platform](https://github.com/Judith-AB/ResQWave)** — Real-time emergency response platform using React, Node.js, and Socket.io, with AI-based urgency scoring, a multi-role dashboard, and live coordination between field responders and admins.
