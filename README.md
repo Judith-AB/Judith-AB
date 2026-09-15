@@ -31,7 +31,7 @@
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
 - **[Polo — Real-Time Messaging Backend](https://github.com/Judith-AB/polo)** — Production-grade chat backend built with FastAPI and WebSockets, supporting multi-room messaging with JWT-protected connections, Redis Pub/Sub for horizontal scaling, and a GitHub Actions CI/CD pipeline.
 - **[ResQWave — Disaster Relief & Coordination Platform](https://github.com/Judith-AB/ResQWave)** — Real-time emergency response platform using React, Node.js, and Socket.io, with AI-based urgency scoring, a multi-role dashboard, and live coordination between field responders and admins.
@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Judith-AB&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Judith-AB&theme=tokyonight&hide_border=true&v=1"/>
 </p>
 
 ---
